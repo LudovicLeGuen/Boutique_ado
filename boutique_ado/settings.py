@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(arso4=@t%tm%cat*90$+ibut33x(v6@^7_!td^v@=4&%n9^n6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ludovicleguen-boutique-a-4em1i756k3.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-ludovicleguen-boutique-a-enc62uz8s0.us2.codeanyapp.com']
 
 
 # Application definition
